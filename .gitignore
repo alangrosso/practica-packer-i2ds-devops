@@ -12,7 +12,12 @@ crash.log
 
 # vagrant files
 .vagrant/
-Vagrantfile
+#Vagrantfile
 
 # For built boxes
 *.box
+
+# 
+ngrok-stable-windows-amd64.zip
+ngrok.exe
+packer.exe
