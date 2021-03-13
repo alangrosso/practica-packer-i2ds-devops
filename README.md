@@ -1,3 +1,3 @@
 # Práctica Packer
 
-Desarrollo de la práctica Packer
+Desarrollo de la práctica Packer. 
